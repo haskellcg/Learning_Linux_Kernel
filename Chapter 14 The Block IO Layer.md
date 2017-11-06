@@ -1,6 +1,5 @@
 ## **前言**
-	“百年一遇”的大停电，自从搬家后久好久没这么停电了，停电之后接着停水，博客也因此没及时更新，不过两天看了不少书，书籍是人类的好朋友啊！
-	接着上一篇。
+  “百年一遇”的大停电，自从搬家后久好久没这么停电了，停电之后接着停水，博客也因此没及时更新，不过两天看了不少书，书籍是人类的好朋友啊！接着上一篇。
 ## **Block Devices**
 *Block devices* are hardware devices distinguished by the random access of fixed-size chunks of data, such as hard disk, floppy drivers, Blu-ray readers, and flash memory.
 
