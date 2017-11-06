@@ -1,5 +1,5 @@
 ## **前言**
-这两天忙着应聘工作，博客更新有点慢。对于一个失业一年的人，找工作还真难。裸辞真是个最大的错误，但是想想当时自己状态确实很差，确实需要好好休息调整。我相信我一定会有更好的状态去工作。
+这两天忙着应聘工作，博客更新有点慢。
 
 ## **Linux Coding Style**
 It is not so important what style is chosen as long as one is indeed selected and used exclusively.
